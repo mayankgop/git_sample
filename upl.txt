@@ -1,3 +1,4 @@
 hello this is the text file or sample to be uploaded in the git
 how it is going to be in the github for the first time
-lets start
+lets startopting for second commit
+
